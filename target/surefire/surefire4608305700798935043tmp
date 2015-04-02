@@ -1,0 +1,7 @@
+#surefire
+#Mon Feb 09 18:29:29 IST 2015
+maven.ext.class.path=C\:\\Program Files\\NetBeans 7.4\\java\\maven-nblib\\netbeans-eventspy.jar
+user.dir=C\:\\Users\\dell\\Documents\\NetBeansProjects\\document-management-system
+localRepository=C\:\\Users\\dell\\.m2\\repository
+netbeans.deploy=true
+basedir=C\:\\Users\\dell\\Documents\\NetBeansProjects\\document-management-system
